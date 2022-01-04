@@ -1,0 +1,485 @@
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/settings/keyshopVisible/?visible=1&return=%2Fgames%2F&token=xiR6CVUM'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/settings/keyshopVisible/?visible=0&return=%2Fgames%2F&token=xiR6CVUM'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['noopener'], 'target': '_blank', 'href': 'https://forum.gg.deals/d/492-keyshop-integration-on-gg-deals-process-explained'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/au/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/be/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/br/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/ca/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/dk/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/eu/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/fi/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/fr/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/de/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/ie/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/it/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/nl/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/no/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/pl/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/ru/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/es/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/se/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/ch/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/gb/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/us/region/switch/?return=%2Fgames%2F'}
+{'href': '/'}
+{'class': ['top-menu-list-link'], 'href': '/deals/'}
+{'class': ['top-menu-list-link'], 'href': '/games/'}
+{'class': ['top-menu-list-link'], 'href': '/news/'}
+{'class': ['top-menu-list-link'], 'href': '/vouchers/'}
+{'class': ['top-menu-list-link'], 'href': 'https://forum.gg.deals/'}
+{'href': '#', 'class': ['bottom-mobile-menu-link', 'bottom-mobile-screen-link'], 'data-mobile-screen-target': 'region-currency'}
+{'href': '#', 'class': ['bottom-mobile-menu-link', 'bottom-mobile-screen-link'], 'data-mobile-screen-target': 'keyshops'}
+{'href': '#', 'class': ['bottom-mobile-screen-back']}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/au/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/be/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/br/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/ca/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/dk/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/eu/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/fi/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/fr/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/de/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/ie/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/it/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/nl/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/no/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/pl/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/ru/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/es/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/se/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/ch/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/gb/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/us/region/switch/?return=%2Fgames%2F'}
+{'href': '#', 'class': ['bottom-mobile-screen-back']}
+{'class': ['read-more'], 'href': '/page/keyshops-risks/'}
+{'href': '/settings/keyshopVisible/?visible=0&return=%2Fgames%2F&token=xiR6CVUM', 'class': ['filter-switch', 'menu-keyshops-switch', 'active'], 'rel': ['nofollow']}
+{'class': ['read-more'], 'rel': ['noopener'], 'target': '_blank', 'href': 'https://forum.gg.deals/d/492-keyshop-integration-on-gg-deals-process-explained'}
+{'href': '#', 'class': ['search-results-trending-link']}
+{'href': '#', 'class': ['search-results-trending-link']}
+{'href': '#', 'class': ['search-results-trending-link']}
+{'href': '#', 'class': ['search-results-trending-link']}
+{'href': '#', 'class': ['search-results-trending-link']}
+{'href': '#', 'class': ['search-results-trending-link']}
+{'href': '#', 'class': ['search-results-trending-link']}
+{'href': '#', 'class': ['search-results-trending-link']}
+{'href': '#', 'class': ['search-results-trending-link']}
+{'class': ['top-side-menu-link', 'steam-login'], 'rel': ['nofollow'], 'href': '/user/login/?return=%2Fgames%2F'}
+{'class': ['menu-profile-list-login'], 'href': '/user/login/?return=%2Fgames%2F'}
+{'class': ['menu-profile-list-link'], 'id': 'profile-menu-link-wishlist', 'href': '#login-form'}
+{'class': ['menu-profile-list-link'], 'id': 'profile-menu-link-alerts', 'href': '#login-form'}
+{'class': ['menu-profile-list-link'], 'id': 'profile-menu-link-collection', 'href': '#login-form'}
+{'class': ['menu-profile-list-link'], 'id': 'profile-menu-link-notifications', 'href': '#login-form'}
+{'class': ['menu-profile-list-link'], 'id': 'profile-menu-link-settings', 'href': '#login-form'}
+{'href': '#', 'class': ['bottom-mobile-menu-link', 'bottom-mobile-screen-link'], 'data-mobile-screen-target': 'region-currency'}
+{'href': '#', 'class': ['bottom-mobile-menu-link', 'bottom-mobile-screen-link'], 'data-mobile-screen-target': 'keyshops'}
+{'href': '#', 'class': ['bottom-mobile-screen-back']}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/au/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/be/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/br/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/ca/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/dk/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/eu/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/fi/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/fr/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/de/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/ie/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/it/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/nl/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/no/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/pl/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/ru/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/es/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/se/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/ch/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/gb/region/switch/?return=%2Fgames%2F'}
+{'class': ['settings-menu-select-option-link'], 'rel': ['nofollow'], 'href': '/us/region/switch/?return=%2Fgames%2F'}
+{'href': '#', 'class': ['bottom-mobile-screen-back']}
+{'class': ['read-more'], 'href': '/page/keyshops-risks/'}
+{'href': '/settings/keyshopVisible/?visible=0&return=%2Fgames%2F&token=xiR6CVUM', 'class': ['filter-switch', 'menu-keyshops-switch', 'active'], 'rel': ['nofollow']}
+{'class': ['read-more'], 'rel': ['noopener'], 'target': '_blank', 'href': 'https://forum.gg.deals/d/492-keyshop-integration-on-gg-deals-process-explained'}
+{'href': '/', 'itemprop': 'item'}
+{'href': '/games/', 'itemprop': 'item'}
+{'href': '/games/', 'class': ['active'], 'itemprop': 'item'}
+{'class': ['read-more-btn'], 'href': '#', 'onclick': "scrollToAnchor('footer-main-description'); return false;"}
+{'class': ['menu-item-link'], 'href': '/games/'}
+{'class': ['menu-item-link'], 'href': '/games/new-releases/'}
+{'class': ['menu-item-link'], 'href': '/games/preorders/'}
+{'class': ['menu-item-link'], 'href': '/games/under-7-50-aud/'}
+{'class': ['menu-item-link'], 'href': '/games/under-15-aud/'}
+{'class': ['menu-item-link'], 'href': '/games/critically-acclaimed/'}
+{'class': ['menu-item-link'], 'href': '/games/?sort=wanted'}
+{'class': ['menu-item-link'], 'href': '/games/xbox-game-pass-pc-games-list/'}
+{'class': ['menu-item-link'], 'href': '/games/action/'}
+{'class': ['menu-item-link'], 'href': '/games/adventure/'}
+{'class': ['menu-item-link'], 'href': '/games/rpg/'}
+{'class': ['menu-item-link'], 'href': '/games/strategy/'}
+{'class': ['menu-item-link'], 'href': '/games/sports/'}
+{'class': ['menu-item-link'], 'href': '/games/racing/'}
+{'class': ['menu-item-link'], 'href': '/games/simulation/'}
+{'class': ['menu-item-link'], 'href': '/games/indie/'}
+{'class': ['menu-item-link'], 'href': '/games/free-games/'}
+{'class': ['menu-item-link'], 'href': '/games/fortnite-skins-v-bucks/'}
+{'class': ['menu-item-link'], 'href': '/games/wow-time-cards/'}
+{'class': ['menu-item-link'], 'href': '/games/epic-games-exclusives/'}
+{'class': ['full-link'], 'href': '/game/ready-or-not-1/'}
+{'class': ['main-image'], 'href': '/game/ready-or-not-1/'}
+{'class': ['title-inner'], 'title': 'Ready or Not', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/ready-or-not-1/'}
+{'class': ['price-content'], 'href': '/game/ready-or-not-1/'}
+{'class': ['price-content'], 'href': '/game/ready-or-not-1/'}
+{'class': ['price-content'], 'href': '/game/ready-or-not-1/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/ready-or-not-1/'}
+{'class': ['full-link'], 'href': '/game/abandon-ship/'}
+{'class': ['main-image'], 'href': '/game/abandon-ship/'}
+{'class': ['title-inner'], 'title': 'Abandon Ship', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/abandon-ship/'}
+{'class': ['price-content'], 'href': '/game/abandon-ship/'}
+{'class': ['price-content'], 'href': '/game/abandon-ship/'}
+{'class': ['price-content'], 'href': '/game/abandon-ship/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/abandon-ship/'}
+{'class': ['full-link'], 'href': '/game/cyberpunk-2077/'}
+{'class': ['main-image'], 'href': '/game/cyberpunk-2077/'}
+{'class': ['title-inner'], 'title': 'Cyberpunk 2077', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/cyberpunk-2077/'}
+{'class': ['price-content'], 'href': '/game/cyberpunk-2077/'}
+{'class': ['price-content'], 'href': '/game/cyberpunk-2077/'}
+{'class': ['price-content'], 'href': '/game/cyberpunk-2077/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/cyberpunk-2077/'}
+{'class': ['full-link'], 'href': '/game/star-wars-jedi-fallen-order/'}
+{'class': ['main-image'], 'href': '/game/star-wars-jedi-fallen-order/'}
+{'class': ['title-inner'], 'title': 'STAR WARS Jedi: Fallen Order', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/star-wars-jedi-fallen-order/'}
+{'class': ['price-content'], 'href': '/game/star-wars-jedi-fallen-order/'}
+{'class': ['price-content'], 'href': '/game/star-wars-jedi-fallen-order/'}
+{'class': ['price-content'], 'href': '/game/star-wars-jedi-fallen-order/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/star-wars-jedi-fallen-order/'}
+{'class': ['full-link'], 'href': '/game/red-dead-redemption-ii/'}
+{'class': ['main-image'], 'href': '/game/red-dead-redemption-ii/'}
+{'class': ['title-inner'], 'title': 'Red Dead Redemption 2', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/red-dead-redemption-ii/'}
+{'class': ['price-content'], 'href': '/game/red-dead-redemption-ii/'}
+{'class': ['price-content'], 'href': '/game/red-dead-redemption-ii/'}
+{'class': ['price-content'], 'href': '/game/red-dead-redemption-ii/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/red-dead-redemption-ii/'}
+{'class': ['full-link'], 'href': '/game/disco-elysium/'}
+{'class': ['main-image'], 'href': '/game/disco-elysium/'}
+{'class': ['title-inner'], 'title': 'Disco Elysium - The Final Cut', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/disco-elysium/'}
+{'class': ['price-content'], 'href': '/game/disco-elysium/'}
+{'class': ['price-content'], 'href': '/game/disco-elysium/'}
+{'class': ['price-content'], 'href': '/game/disco-elysium/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/disco-elysium/'}
+{'class': ['full-link'], 'href': '/game/god-of-war/'}
+{'class': ['main-image'], 'href': '/game/god-of-war/'}
+{'class': ['title-inner'], 'title': 'God of War', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/god-of-war/'}
+{'class': ['price-content'], 'href': '/game/god-of-war/'}
+{'class': ['price-content'], 'href': '/game/god-of-war/'}
+{'class': ['price-content'], 'href': '/game/god-of-war/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/god-of-war/'}
+{'class': ['full-link'], 'href': '/game/two-point-hospital/'}
+{'class': ['main-image'], 'href': '/game/two-point-hospital/'}
+{'class': ['title-inner'], 'title': 'Two Point Hospital', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/two-point-hospital/'}
+{'class': ['price-content'], 'href': '/game/two-point-hospital/'}
+{'class': ['price-content'], 'href': '/game/two-point-hospital/'}
+{'class': ['price-content'], 'href': '/game/two-point-hospital/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/two-point-hospital/'}
+{'class': ['full-link'], 'href': '/game/leisure-suit-larry-wet-dreams-don-t-dry/'}
+{'class': ['main-image'], 'href': '/game/leisure-suit-larry-wet-dreams-don-t-dry/'}
+{'class': ['title-inner'], 'title': "Leisure Suit Larry - Wet Dreams Don't Dry", 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/leisure-suit-larry-wet-dreams-don-t-dry/'}
+{'class': ['price-content'], 'href': '/game/leisure-suit-larry-wet-dreams-don-t-dry/'}
+{'class': ['price-content'], 'href': '/game/leisure-suit-larry-wet-dreams-don-t-dry/'}
+{'class': ['price-content'], 'href': '/game/leisure-suit-larry-wet-dreams-don-t-dry/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/leisure-suit-larry-wet-dreams-don-t-dry/'}
+{'class': ['full-link'], 'href': '/game/spacebourne/'}
+{'class': ['main-image'], 'href': '/game/spacebourne/'}
+{'class': ['title-inner'], 'title': 'SpaceBourne', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/spacebourne/'}
+{'class': ['price-content'], 'href': '/game/spacebourne/'}
+{'class': ['price-content'], 'href': '/game/spacebourne/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/spacebourne/'}
+{'class': ['full-link'], 'href': '/game/horizon-zero-dawn-complete-edition/'}
+{'class': ['main-image'], 'href': '/game/horizon-zero-dawn-complete-edition/'}
+{'class': ['title-inner'], 'title': 'Horizon Zero Dawn Complete Edition', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/horizon-zero-dawn-complete-edition/'}
+{'class': ['price-content'], 'href': '/game/horizon-zero-dawn-complete-edition/'}
+{'class': ['price-content'], 'href': '/game/horizon-zero-dawn-complete-edition/'}
+{'class': ['price-content'], 'href': '/game/horizon-zero-dawn-complete-edition/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/horizon-zero-dawn-complete-edition/'}
+{'class': ['full-link'], 'href': '/game/the-outer-worlds/'}
+{'class': ['main-image'], 'href': '/game/the-outer-worlds/'}
+{'class': ['title-inner'], 'title': 'The Outer Worlds', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/the-outer-worlds/'}
+{'class': ['price-content'], 'href': '/game/the-outer-worlds/'}
+{'class': ['price-content'], 'href': '/game/the-outer-worlds/'}
+{'class': ['price-content'], 'href': '/game/the-outer-worlds/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/the-outer-worlds/'}
+{'class': ['full-link'], 'href': '/game/monster-hunter-rise/'}
+{'class': ['main-image'], 'href': '/game/monster-hunter-rise/'}
+{'class': ['title-inner'], 'title': 'MONSTER HUNTER RISE', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/monster-hunter-rise/'}
+{'class': ['price-content'], 'href': '/game/monster-hunter-rise/'}
+{'class': ['price-content'], 'href': '/game/monster-hunter-rise/'}
+{'class': ['price-content'], 'href': '/game/monster-hunter-rise/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/monster-hunter-rise/'}
+{'class': ['full-link'], 'href': '/game/huniepop/'}
+{'class': ['main-image'], 'href': '/game/huniepop/'}
+{'class': ['title-inner'], 'title': 'HuniePop', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/huniepop/'}
+{'class': ['price-content'], 'href': '/game/huniepop/'}
+{'class': ['price-content'], 'href': '/game/huniepop/'}
+{'class': ['price-content'], 'href': '/game/huniepop/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/huniepop/'}
+{'class': ['full-link'], 'href': '/game/borderlands-3/'}
+{'class': ['main-image'], 'href': '/game/borderlands-3/'}
+{'class': ['title-inner'], 'title': 'Borderlands 3', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/borderlands-3/'}
+{'class': ['price-content'], 'href': '/game/borderlands-3/'}
+{'class': ['price-content'], 'href': '/game/borderlands-3/'}
+{'class': ['price-content'], 'href': '/game/borderlands-3/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/borderlands-3/'}
+{'class': ['full-link'], 'href': '/game/death-stranding/'}
+{'class': ['main-image'], 'href': '/game/death-stranding/'}
+{'class': ['title-inner'], 'title': 'DEATH STRANDING', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/death-stranding/'}
+{'class': ['price-content'], 'href': '/game/death-stranding/'}
+{'class': ['price-content'], 'href': '/game/death-stranding/'}
+{'class': ['price-content'], 'href': '/game/death-stranding/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/death-stranding/'}
+{'class': ['full-link'], 'href': '/game/assassin-s-creed-odyssey/'}
+{'class': ['main-image'], 'href': '/game/assassin-s-creed-odyssey/'}
+{'class': ['title-inner'], 'title': "Assassin's Creed Odyssey", 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/assassin-s-creed-odyssey/'}
+{'class': ['price-content'], 'href': '/game/assassin-s-creed-odyssey/'}
+{'class': ['price-content'], 'href': '/game/assassin-s-creed-odyssey/'}
+{'class': ['price-content'], 'href': '/game/assassin-s-creed-odyssey/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/assassin-s-creed-odyssey/'}
+{'class': ['full-link'], 'href': '/game/hades/'}
+{'class': ['main-image'], 'href': '/game/hades/'}
+{'class': ['title-inner'], 'title': 'Hades', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/hades/'}
+{'class': ['price-content'], 'href': '/game/hades/'}
+{'class': ['price-content'], 'href': '/game/hades/'}
+{'class': ['price-content'], 'href': '/game/hades/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/hades/'}
+{'class': ['full-link'], 'href': '/game/project-zomboid/'}
+{'class': ['main-image'], 'href': '/game/project-zomboid/'}
+{'class': ['title-inner'], 'title': 'Project Zomboid', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/project-zomboid/'}
+{'class': ['price-content'], 'href': '/game/project-zomboid/'}
+{'class': ['price-content'], 'href': '/game/project-zomboid/'}
+{'class': ['price-content'], 'href': '/game/project-zomboid/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/project-zomboid/'}
+{'class': ['full-link'], 'href': '/game/battlefield-2042/'}
+{'class': ['main-image'], 'href': '/game/battlefield-2042/'}
+{'class': ['title-inner'], 'title': 'Battlefield 2042', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/battlefield-2042/'}
+{'class': ['price-content'], 'href': '/game/battlefield-2042/'}
+{'class': ['price-content'], 'href': '/game/battlefield-2042/'}
+{'class': ['price-content'], 'href': '/game/battlefield-2042/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/battlefield-2042/'}
+{'class': ['full-link'], 'href': '/game/assassins-creed-valhalla/'}
+{'class': ['main-image'], 'href': '/game/assassins-creed-valhalla/'}
+{'class': ['title-inner'], 'title': "Assassin's Creed Valhalla", 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/assassins-creed-valhalla/'}
+{'class': ['price-content'], 'href': '/game/assassins-creed-valhalla/'}
+{'class': ['price-content'], 'href': '/game/assassins-creed-valhalla/'}
+{'class': ['price-content'], 'href': '/game/assassins-creed-valhalla/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/assassins-creed-valhalla/'}
+{'class': ['full-link'], 'href': '/game/resident-evil-village/'}
+{'class': ['main-image'], 'href': '/game/resident-evil-village/'}
+{'class': ['title-inner'], 'title': 'Resident Evil Village', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/resident-evil-village/'}
+{'class': ['price-content'], 'href': '/game/resident-evil-village/'}
+{'class': ['price-content'], 'href': '/game/resident-evil-village/'}
+{'class': ['price-content'], 'href': '/game/resident-evil-village/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/resident-evil-village/'}
+{'class': ['full-link'], 'href': '/game/five-nights-at-freddys-security-breach/'}
+{'class': ['main-image'], 'href': '/game/five-nights-at-freddys-security-breach/'}
+{'class': ['title-inner'], 'title': "Five Nights at Freddy's: Security Breach", 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/five-nights-at-freddys-security-breach/'}
+{'class': ['price-content'], 'href': '/game/five-nights-at-freddys-security-breach/'}
+{'class': ['price-content'], 'href': '/game/five-nights-at-freddys-security-breach/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/five-nights-at-freddys-security-breach/'}
+{'class': ['full-link'], 'href': '/game/inscryption/'}
+{'class': ['main-image'], 'href': '/game/inscryption/'}
+{'class': ['title-inner'], 'title': 'Inscryption', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/inscryption/'}
+{'class': ['price-content'], 'href': '/game/inscryption/'}
+{'class': ['price-content'], 'href': '/game/inscryption/'}
+{'class': ['price-content'], 'href': '/game/inscryption/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/inscryption/'}
+{'class': ['full-link'], 'href': '/game/escape-from-tarkov/'}
+{'class': ['main-image'], 'href': '/game/escape-from-tarkov/'}
+{'class': ['title-inner'], 'title': 'Escape From Tarkov', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/escape-from-tarkov/'}
+{'class': ['price-content'], 'href': '/game/escape-from-tarkov/'}
+{'class': ['price-content'], 'href': '/game/escape-from-tarkov/'}
+{'class': ['price-content'], 'href': '/game/escape-from-tarkov/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/escape-from-tarkov/'}
+{'class': ['full-link'], 'href': '/game/chernobylite/'}
+{'class': ['main-image'], 'href': '/game/chernobylite/'}
+{'class': ['title-inner'], 'title': 'Chernobylite', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/chernobylite/'}
+{'class': ['price-content'], 'href': '/game/chernobylite/'}
+{'class': ['price-content'], 'href': '/game/chernobylite/'}
+{'class': ['price-content'], 'href': '/game/chernobylite/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/chernobylite/'}
+{'class': ['full-link'], 'href': '/game/elden-ring/'}
+{'class': ['main-image'], 'href': '/game/elden-ring/'}
+{'class': ['title-inner'], 'title': 'ELDEN RING', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/elden-ring/'}
+{'class': ['price-content'], 'href': '/game/elden-ring/'}
+{'class': ['price-content'], 'href': '/game/elden-ring/'}
+{'class': ['price-content'], 'href': '/game/elden-ring/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/elden-ring/'}
+{'class': ['full-link'], 'href': '/game/forza-horizon-5/'}
+{'class': ['main-image'], 'href': '/game/forza-horizon-5/'}
+{'class': ['title-inner'], 'title': 'Forza Horizon 5', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/forza-horizon-5/'}
+{'class': ['price-content'], 'href': '/game/forza-horizon-5/'}
+{'class': ['price-content'], 'href': '/game/forza-horizon-5/'}
+{'class': ['price-content'], 'href': '/game/forza-horizon-5/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/forza-horizon-5/'}
+{'class': ['full-link'], 'href': '/game/sekiro-shadows-die-twice/'}
+{'class': ['main-image'], 'href': '/game/sekiro-shadows-die-twice/'}
+{'class': ['title-inner'], 'title': 'Sekiro: Shadows Die Twice', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/sekiro-shadows-die-twice/'}
+{'class': ['price-content'], 'href': '/game/sekiro-shadows-die-twice/'}
+{'class': ['price-content'], 'href': '/game/sekiro-shadows-die-twice/'}
+{'class': ['price-content'], 'href': '/game/sekiro-shadows-die-twice/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/sekiro-shadows-die-twice/'}
+{'class': ['full-link'], 'href': '/game/mass-effect-legendary-edition/'}
+{'class': ['main-image'], 'href': '/game/mass-effect-legendary-edition/'}
+{'class': ['title-inner'], 'title': 'Mass Effect Legendary Edition', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/mass-effect-legendary-edition/'}
+{'class': ['price-content'], 'href': '/game/mass-effect-legendary-edition/'}
+{'class': ['price-content'], 'href': '/game/mass-effect-legendary-edition/'}
+{'class': ['price-content'], 'href': '/game/mass-effect-legendary-edition/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/mass-effect-legendary-edition/'}
+{'class': ['full-link'], 'href': '/game/total-war-warhammer/'}
+{'class': ['main-image'], 'href': '/game/total-war-warhammer/'}
+{'class': ['title-inner'], 'title': 'Total War: WARHAMMER', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/total-war-warhammer/'}
+{'class': ['price-content'], 'href': '/game/total-war-warhammer/'}
+{'class': ['price-content'], 'href': '/game/total-war-warhammer/'}
+{'class': ['price-content'], 'href': '/game/total-war-warhammer/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/total-war-warhammer/'}
+{'class': ['full-link'], 'href': '/game/middle-earth-shadow-of-war/'}
+{'class': ['main-image'], 'href': '/game/middle-earth-shadow-of-war/'}
+{'class': ['title-inner'], 'title': 'Middle-earth: Shadow of War', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/middle-earth-shadow-of-war/'}
+{'class': ['price-content'], 'href': '/game/middle-earth-shadow-of-war/'}
+{'class': ['price-content'], 'href': '/game/middle-earth-shadow-of-war/'}
+{'class': ['price-content'], 'href': '/game/middle-earth-shadow-of-war/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/middle-earth-shadow-of-war/'}
+{'class': ['full-link'], 'href': '/game/days-gone/'}
+{'class': ['main-image'], 'href': '/game/days-gone/'}
+{'class': ['title-inner'], 'title': 'Days Gone', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/days-gone/'}
+{'class': ['price-content'], 'href': '/game/days-gone/'}
+{'class': ['price-content'], 'href': '/game/days-gone/'}
+{'class': ['price-content'], 'href': '/game/days-gone/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/days-gone/'}
+{'class': ['full-link'], 'href': '/game/wildermyth/'}
+{'class': ['main-image'], 'href': '/game/wildermyth/'}
+{'class': ['title-inner'], 'title': 'Wildermyth', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/wildermyth/'}
+{'class': ['price-content'], 'href': '/game/wildermyth/'}
+{'class': ['price-content'], 'href': '/game/wildermyth/'}
+{'class': ['price-content'], 'href': '/game/wildermyth/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/wildermyth/'}
+{'class': ['full-link'], 'href': '/game/deathloop/'}
+{'class': ['main-image'], 'href': '/game/deathloop/'}
+{'class': ['title-inner'], 'title': 'DEATHLOOP', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/deathloop/'}
+{'class': ['price-content'], 'href': '/game/deathloop/'}
+{'class': ['price-content'], 'href': '/game/deathloop/'}
+{'class': ['price-content'], 'href': '/game/deathloop/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/deathloop/'}
+{'class': ['full-link'], 'href': '/game/marvels-guardians-of-the-galaxy/'}
+{'class': ['main-image'], 'href': '/game/marvels-guardians-of-the-galaxy/'}
+{'class': ['title-inner'], 'title': "Marvel's Guardians of the Galaxy", 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/marvels-guardians-of-the-galaxy/'}
+{'class': ['price-content'], 'href': '/game/marvels-guardians-of-the-galaxy/'}
+{'class': ['price-content'], 'href': '/game/marvels-guardians-of-the-galaxy/'}
+{'class': ['price-content'], 'href': '/game/marvels-guardians-of-the-galaxy/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/marvels-guardians-of-the-galaxy/'}
+{'class': ['full-link'], 'href': '/game/minecraft/'}
+{'class': ['main-image'], 'href': '/game/minecraft/'}
+{'class': ['title-inner'], 'title': 'Minecraft', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/minecraft/'}
+{'class': ['price-content'], 'href': '/game/minecraft/'}
+{'class': ['price-content'], 'href': '/game/minecraft/'}
+{'class': ['price-content'], 'href': '/game/minecraft/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/minecraft/'}
+{'class': ['full-link'], 'href': '/game/world-war-z-aftermath/'}
+{'class': ['main-image'], 'href': '/game/world-war-z-aftermath/'}
+{'class': ['title-inner'], 'title': 'World War Z: Aftermath', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/world-war-z-aftermath/'}
+{'class': ['price-content'], 'href': '/game/world-war-z-aftermath/'}
+{'class': ['price-content'], 'href': '/game/world-war-z-aftermath/'}
+{'class': ['price-content'], 'href': '/game/world-war-z-aftermath/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/world-war-z-aftermath/'}
+{'class': ['full-link'], 'href': '/game/fifa-22/'}
+{'class': ['main-image'], 'href': '/game/fifa-22/'}
+{'class': ['title-inner'], 'title': 'FIFA 22', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/fifa-22/'}
+{'class': ['price-content'], 'href': '/game/fifa-22/'}
+{'class': ['price-content'], 'href': '/game/fifa-22/'}
+{'class': ['price-content'], 'href': '/game/fifa-22/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/fifa-22/'}
+{'class': ['full-link'], 'href': '/game/doom-eternal/'}
+{'class': ['main-image'], 'href': '/game/doom-eternal/'}
+{'class': ['title-inner'], 'title': 'DOOM Eternal', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/doom-eternal/'}
+{'class': ['price-content'], 'href': '/game/doom-eternal/'}
+{'class': ['price-content'], 'href': '/game/doom-eternal/'}
+{'class': ['price-content'], 'href': '/game/doom-eternal/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/doom-eternal/'}
+{'class': ['full-link'], 'href': '/game/valheim/'}
+{'class': ['main-image'], 'href': '/game/valheim/'}
+{'class': ['title-inner'], 'title': 'Valheim', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/valheim/'}
+{'class': ['price-content'], 'href': '/game/valheim/'}
+{'class': ['price-content'], 'href': '/game/valheim/'}
+{'class': ['price-content'], 'href': '/game/valheim/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/valheim/'}
+{'class': ['full-link'], 'href': '/game/it-takes-two/'}
+{'class': ['main-image'], 'href': '/game/it-takes-two/'}
+{'class': ['title-inner'], 'title': 'It Takes Two', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/it-takes-two/'}
+{'class': ['price-content'], 'href': '/game/it-takes-two/'}
+{'class': ['price-content'], 'href': '/game/it-takes-two/'}
+{'class': ['price-content'], 'href': '/game/it-takes-two/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/it-takes-two/'}
+{'class': ['full-link'], 'href': '/game/virgo-vs-the-zodiac/'}
+{'class': ['main-image'], 'href': '/game/virgo-vs-the-zodiac/'}
+{'class': ['title-inner'], 'title': 'Virgo Versus The Zodiac', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/virgo-vs-the-zodiac/'}
+{'class': ['price-content'], 'href': '/game/virgo-vs-the-zodiac/'}
+{'class': ['price-content'], 'href': '/game/virgo-vs-the-zodiac/'}
+{'class': ['price-content'], 'href': '/game/virgo-vs-the-zodiac/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/virgo-vs-the-zodiac/'}
+{'class': ['full-link'], 'href': '/game/deaths-door/'}
+{'class': ['main-image'], 'href': '/game/deaths-door/'}
+{'class': ['title-inner'], 'title': "Death's Door", 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/deaths-door/'}
+{'class': ['price-content'], 'href': '/game/deaths-door/'}
+{'class': ['price-content'], 'href': '/game/deaths-door/'}
+{'class': ['price-content'], 'href': '/game/deaths-door/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/deaths-door/'}
+{'class': ['full-link'], 'href': '/game/far-cry-6/'}
+{'class': ['main-image'], 'href': '/game/far-cry-6/'}
+{'class': ['title-inner'], 'title': 'Far Cry 6', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/far-cry-6/'}
+{'class': ['price-content'], 'href': '/game/far-cry-6/'}
+{'class': ['price-content'], 'href': '/game/far-cry-6/'}
+{'class': ['price-content'], 'href': '/game/far-cry-6/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/far-cry-6/'}
+{'class': ['full-link'], 'href': '/game/in-other-waters/'}
+{'class': ['main-image'], 'href': '/game/in-other-waters/'}
+{'class': ['title-inner'], 'title': 'In Other Waters', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/in-other-waters/'}
+{'class': ['price-content'], 'href': '/game/in-other-waters/'}
+{'class': ['price-content'], 'href': '/game/in-other-waters/'}
+{'class': ['price-content'], 'href': '/game/in-other-waters/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/in-other-waters/'}
+{'class': ['full-link'], 'href': '/game/dying-light-2/'}
+{'class': ['main-image'], 'href': '/game/dying-light-2/'}
+{'class': ['title-inner'], 'title': 'Dying Light 2 Stay Human', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/dying-light-2/'}
+{'class': ['price-content'], 'href': '/game/dying-light-2/'}
+{'class': ['price-content'], 'href': '/game/dying-light-2/'}
+{'class': ['price-content'], 'href': '/game/dying-light-2/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/dying-light-2/'}
+{'class': ['full-link'], 'href': '/game/black-mesa/'}
+{'class': ['main-image'], 'href': '/game/black-mesa/'}
+{'class': ['title-inner'], 'title': 'Black Mesa', 'data-tippy-theme': 'translucent', 'data-tippy-arrow': 'false', 'data-tippy-followcursor': '1', 'data-tippy-animatefill': 'false', 'data-tippy-duration': '0', 'href': '/game/black-mesa/'}
+{'class': ['price-content'], 'href': '/game/black-mesa/'}
+{'class': ['price-content'], 'href': '/game/black-mesa/'}
+{'class': ['price-content'], 'href': '/game/black-mesa/'}
+{'class': ['action-ext', 'action-desktop-btn', 'always-active', 'action-btn', 'cta-label-desktop'], 'href': '/game/black-mesa/'}
+{'class': ['pjax-link'], 'aria-label': 'Previous page', 'href': '/games/'}
+{'class': ['pjax-link'], 'id': 'page-input-trigger', 'href': '/games/'}
+{'class': ['pjax-link'], 'aria-label': 'Page 2', 'href': '/games/?page=2'}
+{'class': ['pjax-link'], 'aria-label': 'Page 3', 'href': '/games/?page=3'}
+{'class': ['pjax-link'], 'aria-label': 'Page 4', 'href': '/games/?page=4'}
+{'class': ['pjax-link'], 'aria-label': 'Last page', 'href': '/games/?page=2552'}
+{'class': ['pjax-link'], 'aria-label': 'Next page', 'href': '/games/?page=2'}
+{'href': 'https://gg.deals/games/new-releases/'}
+{'href': 'https://gg.deals/games/?sort=wanted'}
+{'href': 'https://gg.deals/games/rpg/'}
+{'href': 'https://gg.deals/games/action/'}
+{'href': 'https://gg.deals/games/indie/'}
+{'href': 'https://gg.deals/games/adventure/'}
+{'class': ['facebook'], 'target': '_blank', 'rel': ['nofollow', 'noopener', 'external'], 'href': 'https://www.facebook.com/GG.deals.site'}
+{'class': ['twitter'], 'target': '_blank', 'rel': ['nofollow', 'noopener', 'external'], 'href': 'https://twitter.com/GGdeals/'}
+{'class': ['steam'], 'target': '_blank', 'rel': ['nofollow', 'noopener', 'external'], 'href': 'https://steamcommunity.com/groups/gg_deals'}
+{'href': '/page/how-to-activate-steam-cd-key/'}
+{'href': '/page/how-to-activate-origin-cd-key/'}
+{'href': '/page/how-to-activate-uplay-cd-key/'}
+{'href': '/page/how-to-activate-epic-games-cd-key/'}
+{'href': '/page/how-to-activate-gog-cd-key/'}
+{'href': '#coming'}
+{'href': '/presets/'}
+{'href': '/contact/'}
+{'href': '/privacy/'}
+{'href': '/terms/'}
+{'class': ['rss'], 'href': '/au/news/feed/'}
+{'class': ['btn', 'btn-black', 'flex-pull-right'], 'rel': ['nofollow'], 'href': '/user/login/?return=%2Fgames%2F'}

@@ -12,6 +12,7 @@ bs = BeautifulSoup(html.read(), 'lxml')
 # 	print(bs)
 
 # collect links from webpage
-for link in bs.find_all('a'):
-	if 'href' in link.attrs:
-		print(link.attrs['href'])
+atags = bs.find_all('a')
+
+for tag in atags:
+	print(tag.attrs)
